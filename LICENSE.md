@@ -1,5 +1,5 @@
 # OpenFasciaBalance — An Open-Source Project for Scoliosis & Fascia Visualization
-(c) 2025 by kk sss  
+(c) 2025 by Chocof123 
 Inspired by “Brain Learning Method (大脑学习法)” by Dr. Yan HsiaoHua
 
 Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
