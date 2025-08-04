@@ -64,6 +64,6 @@ This work is deeply inspired by the teachings and therapeutic practice of
 the **Brain Learning Method / 大脑学习法**. 
 📎 **https://reachbalance.blogspot.com/**
 
-We are grateful to contribute to his mission through open-source technology.
+We are grateful to contribute to her mission through open-source technology.
 
 ---
